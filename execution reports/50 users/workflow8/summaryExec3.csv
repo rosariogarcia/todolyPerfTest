@@ -1,0 +1,11 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Workflow 8: delete check all tasks on project:create project 2,50,4455,575,24318,6552.01,0.00%,2.0,1.56,790.3
+Workflow 8: delete check all tasks on project:create project 3,50,3189,423,17392,4499.02,0.00%,1.4,1.00,715.6
+Workflow 8: delete check all tasks on project:move project 3 to project 2,50,3076,308,18679,4561.43,0.00%,1.4,0.99,718.6
+Workflow 8: delete check all tasks on project:create main item,50,3609,352,16647,3972.30,0.00%,1.4,1.24,888.0
+Workflow 8: delete check all tasks on project:create sub item,250,2540,246,11873,2453.53,0.00%,6.0,4.96,843.0
+Workflow 8: delete check all tasks on project:get project tasks,50,7920,265,317643,44303.15,2.00%,.1,0.51,3505.0
+Workflow 8: delete check all tasks on project:check task,282,836,237,9550,1191.48,0.00%,7.8,6.63,876.1
+Workflow 8: delete check all tasks on project:get project done items,50,980,247,3164,849.86,0.00%,.2,0.47,3161.3
+Workflow 8: delete check all tasks on project:Delete project done items,50,833,232,3691,879.87,0.00%,.2,0.05,312.0
+TOTAL,882,2351,232,317643,11059.73,0.11%,2.4,2.60,1091.1

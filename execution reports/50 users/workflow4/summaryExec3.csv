@@ -1,0 +1,9 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Workflow 4: create task:create project 1,50,4139,488,24307,6728.29,0.00%,2.0,1.57,789.0
+Workflow 4: create task:set icon project 1,50,1697,389,17259,2563.23,0.00%,1.7,1.20,716.0
+Workflow 4: create task:add item project 1,50,3168,323,17486,4748.61,0.00%,1.7,1.40,840.0
+Workflow 4: create task:create project 2,50,3303,327,14870,3777.67,0.00%,1.7,1.15,702.0
+Workflow 4: create task:move project 2 to project 1,50,4397,356,16236,4046.58,4.00%,1.7,1.24,746.5
+Workflow 4: create task:create task,50,3667,296,21063,3564.44,4.00%,1.4,1.35,998.9
+Workflow 4: create task:set task,50,2983,294,10870,2797.97,4.00%,1.4,1.21,903.8
+TOTAL,350,3336,294,24307,4314.24,1.71%,7.5,5.92,813.7

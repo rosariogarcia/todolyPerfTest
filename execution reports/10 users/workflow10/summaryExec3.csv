@@ -1,0 +1,13 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Workflow 10: empty recycle bin:create project 1,10,592,481,960,177.00,0.00%,5.4,4.14,790.0
+Workflow 10: empty recycle bin:add item project 1,10,268,239,360,41.62,0.00%,6.4,5.21,840.0
+Workflow 10: empty recycle bin:create project 2,10,492,473,517,15.71,0.00%,5.9,4.14,717.0
+Workflow 10: empty recycle bin:add item project 2,10,243,239,253,4.25,0.00%,6.9,5.62,840.0
+Workflow 10: empty recycle bin:create project 3,10,492,482,519,10.69,0.00%,5.8,4.07,716.0
+Workflow 10: empty recycle bin:move project 3 to project 2,10,240,237,245,3.24,0.00%,6.8,4.76,719.0
+Workflow 10: empty recycle bin:add item project 3,10,481,467,506,11.26,0.00%,5.8,4.79,840.0
+Workflow 10: empty recycle bin:create sub item,50,340,236,496,114.08,0.00%,7.2,5.92,843.0
+Workflow 10: empty recycle bin:Get all projects,10,1039,1021,1056,12.71,0.00%,4.4,88.00,20635.0
+Workflow 10: empty recycle bin:delete project,500,354,229,693,116.58,0.00%,7.4,5.15,716.8
+Workflow 10: empty recycle bin:empty recycle bin,10,499,456,597,56.84,0.00%,6.1,1.87,314.0
+TOTAL,640,371,229,1056,147.81,0.00%,7.3,7.37,1038.5

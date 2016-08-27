@@ -1,0 +1,6 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Workflow 7: check all tasks:create project,50,4886,545,24306,7094.76,0.00%,2.0,1.58,793.1
+Workflow 7: check all tasks:create task,250,3081,311,17953,3306.00,0.00%,5.8,4.78,847.0
+Workflow 7: check all tasks:get project tasks,50,2449,276,7649,2270.06,0.00%,1.4,4.28,3047.0
+Workflow 7: check all tasks:check task,250,3017,246,320081,20442.17,1.20%,.7,0.64,886.5
+TOTAL,600,3152,246,320081,13549.80,0.50%,1.7,1.70,1042.3

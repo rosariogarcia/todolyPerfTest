@@ -1,0 +1,11 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Workflow 2: delete tasks of today:create project 1,50,3333,505,22256,4497.07,0.00%,2.2,1.68,789.0
+Workflow 2: delete tasks of today:add item project 1,50,3685,251,23670,6481.60,0.00%,1.9,1.62,888.0
+Workflow 2: delete tasks of today:create project 2,50,2278,329,21316,3458.57,0.00%,1.8,1.28,716.0
+Workflow 2: delete tasks of today:add item project 2,50,1718,290,12330,2406.01,0.00%,1.5,1.30,888.0
+Workflow 2: delete tasks of today:create project 3,50,2029,321,22082,3607.44,0.00%,1.5,1.05,715.0
+Workflow 2: delete tasks of today:move project 3 to project 2,50,2764,244,22867,5495.95,0.00%,1.6,1.11,718.0
+Workflow 2: delete tasks of today:add item project 3,50,898,273,5196,857.42,0.00%,1.6,1.41,888.0
+Workflow 2: delete tasks of today:Get Tasks Today,50,5017,884,19695,4452.01,0.00%,1.2,58.79,49750.8
+Workflow 2: delete tasks of today:delete item Today,4418,494,230,21002,826.23,0.05%,21.6,18.28,867.9
+TOTAL,4818,678,230,23670,1616.73,0.04%,21.8,29.18,1370.3

@@ -1,0 +1,11 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Workflow 1: create projects:create project 1,10,495,472,515,13.96,0.00%,7.1,5.51,790.0
+Workflow 1: create projects:set icon project 1,10,481,463,511,15.24,0.00%,7.4,5.15,717.0
+Workflow 1: create projects:add item project 1,10,477,465,504,12.45,0.00%,7.5,6.19,840.0
+Workflow 1: create projects:create project 2,10,503,488,519,10.03,0.00%,7.4,5.21,717.0
+Workflow 1: create projects:add item project 2,10,480,462,524,18.88,0.00%,7.3,5.95,840.0
+Workflow 1: create projects:create project 3,10,484,470,494,6.84,0.00%,7.2,5.06,716.0
+Workflow 1: create projects:move project 3 to project 2,10,461,450,479,8.01,0.00%,7.4,5.20,719.0
+Workflow 1: create projects:set icon project 3,10,467,453,484,10.42,0.00%,7.5,5.24,719.0
+Workflow 1: create projects:add item project 3,10,469,457,482,7.80,0.00%,7.5,6.19,840.0
+TOTAL,90,479,450,524,17.49,0.00%,4.2,3.17,766.4

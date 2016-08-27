@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+create project,50,6458,503,43949,10313.76,6.00%,1.1,0.98,905.1
+create task,50,2600,298,21478,4462.20,6.00%,1.1,1.08,1015.8
+edit priority task,50,2099,262,42807,6042.35,8.00%,1.1,0.97,918.7
+TOTAL,150,3719,262,43949,7619.64,6.67%,3.1,2.83,946.5

@@ -1,0 +1,9 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Workflow 3: create subitmes on item:create project 1,50,4603,475,23763,6108.48,0.00%,2.1,1.58,782.0
+Workflow 3: create subitmes on item:set icon project 1,50,2540,381,18812,3267.77,2.00%,1.6,1.17,729.8
+Workflow 3: create subitmes on item:add item project 1,50,3194,321,17994,4245.07,2.00%,1.5,1.28,896.4
+Workflow 3: create subitmes on item:create project 2,50,3808,341,18712,4205.50,0.00%,1.5,1.00,694.9
+Workflow 3: create subitmes on item:move project 2 to project 1,50,3328,345,21295,3784.73,8.00%,1.3,1.03,819.0
+Workflow 3: create subitmes on item:create main item,50,3256,325,21980,3749.45,6.00%,1.3,1.31,1054.3
+Workflow 3: create subitmes on item:create sub item,250,3108,242,321633,20369.83,6.40%,.7,0.71,1019.7
+TOTAL,550,3297,242,321633,14108.23,4.55%,1.5,1.37,915.9

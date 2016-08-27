@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Workflow 6: edit priority task:create project,50,4884,571,42428,6917.08,2.00%,1.2,0.93,826.4
+Workflow 6: edit priority task:create task,50,2755,244,43572,6638.86,4.00%,1.1,0.97,941.4
+Workflow 6: edit priority task:edit priority task,50,1846,293,11044,2209.68,4.00%,1.0,0.83,869.3
+TOTAL,150,3162,244,43572,5821.33,3.33%,2.8,2.39,879.0
